@@ -1,11 +1,5 @@
 # Mortgage Calculator
 
-A command-line Python program that calculates:
-
-- The **minimum mortgage payment** (rounded up to the next dollar).
-- The **interest due** on the next payment.
-- The **number of remaining payments** needed to pay off a mortgage given a custom target payment.
-
 ## Features
 - Computes minimum monthly payment using the amortization formula. 
 - Handles arbitrary mortgage terms and payment frequencies.
