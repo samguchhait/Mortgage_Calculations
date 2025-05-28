@@ -11,7 +11,7 @@
 ## How to Run
 
 - Make sure you have Python 3 installed.
-- No external libraries required (only argparse, math, and sys).
+- No external libraries required (only `argparse`, `math`, and `sys`).
 - My program is designed to run from the terminal.
 - To run it, open a terminal and ensure you are in the directory where your script is saved.
 
